@@ -1,13 +1,13 @@
 {
   "name": "twemoji",
   "description": "A Unicode standard based way to implement emoji across all platforms.",
-  "main": "./2/twemoji.amd.js",
+  "main": "./twemoji.amd.js",
   "ignore": [
     "*",
-    "!2/72x72/*",
-    "!2/svg/*",
-    "!2/twemoji.js",
-    "!2/twemoji.*.js",
+    "!dist/72x72/*",
+    "!dist/svg/*",
+    "!dist/twemoji.js",
+    "!dist/twemoji.*.js",
     "!package.json",
     "!LICENSE",
     "!README.md"
